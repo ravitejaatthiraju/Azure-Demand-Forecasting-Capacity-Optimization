@@ -1,0 +1,3 @@
+[submodule "frontend-dashboard"]
+    path = frontend-dashboard
+    url = https://github.com/ravitejaatthiraju/Azure-Demand-Forecasting-Capacity-Optimization.git
